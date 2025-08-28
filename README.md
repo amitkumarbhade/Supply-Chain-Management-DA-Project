@@ -82,7 +82,7 @@ Key recommendations include:
 ## 🚀 How to Run  
 You can run the notebook directly in **Google Colab** (no setup required):  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/](https://colab.research.google.com/github/amitkumarbhade/Supply-Chain-Management-Analysis/blob/main/Supply_Chain_Management_Analysis.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumarbhade/Supply-Chain-Management-Analysis/blob/main/Supply_Chain_Management_Analysis.ipynb)  
 
 Steps:  
 1. Upload the notebook (`Supply_Chain_Analysis.ipynb`) to Colab.  
